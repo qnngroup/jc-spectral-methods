@@ -8,6 +8,7 @@ An introduction to spectral methods and Julia.
 [Install Julia](https://julialang.org/install/)
 
 On windows, you may need to run `juliaup add 1.11` from the command prompt to install the latest version.
+If there are permission issues when writing `PATH` information to your `rc` file, refer to the guidelines [here](https://github.com/JuliaLang/juliaup/wiki/Permission-problems-during-setup)
 
 ### Step 2: Cloning repository, environment setup
 Clone this repository with Github Desktop or with the command-line interface:
